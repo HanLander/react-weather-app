@@ -9,12 +9,7 @@ export default function App() {
       <br />
       <br />
       <div>
-        <a
-          href="https://github.com/HanLander/react-weather-app"
-          target="_blank"
-        >
-          Github
-        </a>
+        <a href="https://github.com/HanLander/react-weather-app">Github</a>
       </div>
     </div>
   );

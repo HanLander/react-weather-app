@@ -58,7 +58,4 @@ export default function WeatherSearch() {
   } else {
     return form;
   }
-  <div>
-    <a href="https://github.com/HanLander/react-weather-app">Github</a>
-  </div>;
 }
